@@ -25,6 +25,12 @@
 /* template html file css  */
 .custom-box{
     height: 100px;
-    /* width: ; */
+}
+
+
+
+/* flex html file css  */
+.w-card{
+    width: 250px;
 }
 
