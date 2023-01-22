@@ -1,0 +1,30 @@
+/* Card html file css  */
+
+.custom-position{
+    position: relative;
+    top: -15%;
+}
+
+.custom-img-height{
+    height: 35%;
+}
+
+.custom-card-height{
+    height: 90%;
+}
+
+.custom-margin{
+    margin-top: -35px;
+}
+
+.custom-border-color{
+    border: 4px solid #fff6ae;
+}
+
+
+/* template html file css  */
+.custom-box{
+    height: 100px;
+    /* width: ; */
+}
+
